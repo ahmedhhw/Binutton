@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "171095350685",
+    "firebase_url": "https://binutton-d6a79.firebaseio.com",
+    "project_id": "binutton-d6a79",
+    "storage_bucket": "binutton-d6a79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171095350685:android:b91d21c5023833c7",
+        "android_client_info": {
+          "package_name": "com.doublea.binyutton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171095350685-52u058iufh6c98vkir84vsl4qngpf041.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doublea.binyutton",
+            "certificate_hash": "c3adc3c71f55863983b3db45b9d330339f1e6064"
+          }
+        },
+        {
+          "client_id": "171095350685-e9gibnevljlec4lonia6bhbekfh8m5ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaMMid_8RCVOHoO5GIz2k1k6De44VGJUw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171095350685-e9gibnevljlec4lonia6bhbekfh8m5ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

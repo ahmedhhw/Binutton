@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Binutton</string>
+    <string name="net_id">Net ID</string>
+    <string name="message">message</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="help">Help</string>
+    <string name="register">Register</string>
+    <string name="adminstrator">Adminstrator login</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_requests_view">activity_requests_view</string>
+    <string name="accept"><u>Accept</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_arrival">activity_arrival</string>
+    <string name="push">"Go to the Desk"</string>
+    <string name="clickarrival">"Click on Arrival"</string>
+</resources>
